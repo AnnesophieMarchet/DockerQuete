@@ -1,0 +1,5 @@
+secrets/
+.env
+db_data/
+wp/db_data/
+.DS_Store
